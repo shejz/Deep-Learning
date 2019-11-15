@@ -19,7 +19,7 @@ library(forcats)
 # https://s3.amazonaws.com/hackerday.datascience/114/WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 # Import data
-#setwd('/Users/pradmishra/Downloads')
+#setwd('/Users/shielaj/churn')
 
 churn_data_raw <- read.csv("WA_Fn-UseC_-Telco-Customer-Churn.csv")
 
