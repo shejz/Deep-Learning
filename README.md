@@ -61,14 +61,14 @@ In this project, we are going to work on Deep Learning using H2O to predict Cens
 Description
 This data was extracted from the census bureau database found at: http://www.census.gov/ftp/pub/DES/www/welcome.html
 
-Split into train-test using MLC++ GenCVFiles (2/3, 1/3 random).
-48842 instances, mix of continuous and discrete    (train=32561, test=16281)
-45222 if instances with unknown values are removed (train=30162, test=15060)
-Duplicate or conflicting instances : 6
+- Split into train-test using MLC++ GenCVFiles (2/3, 1/3 random).
+- 48842 instances, mix of continuous and discrete    (train=32561, test=16281)
+- 45222 if instances with unknown values are removed (train=30162, test=15060)
+- Duplicate or conflicting instances : 6
 
 Class probabilities for adult.all file
-Probability for the label '>50K'  : 23.93% / 24.78% (without unknowns)
-Probability for the label '<=50K' : 76.07% / 75.22% (without unknowns)
+- Probability for the label '>50K'  : 23.93% / 24.78% (without unknowns)
+- Probability for the label '<=50K' : 76.07% / 75.22% (without unknowns)
 
 Extraction was done by Barry Becker from the 1994 Census database.  
 
