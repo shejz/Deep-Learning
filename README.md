@@ -78,6 +78,39 @@ A set of reasonably clean records was extracted using the following conditions:
 
 **Prediction task is to determine whether a person makes over 50K a year**.
 
+## [Solving Multiple Classification use cases Using H2O](https://github.com/shejz/Deep-Learning/tree/master/Solving%20Multiple%20Classification%20use%20cases%20Using%20H2O)
+In this project, we are going to talk about H2O and functionality in terms of building Machine Learning models.
+
+- Data cleaning using H2O
+- Model Training using H2O
+- Model scalability using H2O in Hadoop environment
+- Driverless AI using H2O
+
+**Description**:
+
+H2O.ai is focused on bringing AI to businesses through software.
+
+H2O includes many common Machine Learning algorithms, such as generalized linear modeling (linear regression, logistic regression, etc.), Naive Bayes, principal components analysis, k-means clustering, and word2vec. H2O implements best-in-class algorithms at scale, such as distributed random forest, gradient boosting, and deep learning. H2O also includes a Stacked Ensembles method, which finds the optimal combination of a collection of prediction algorithms using a process known as stacking.
+
+
+## [Time Series Forecasting with LSTM Neural Network Python](https://github.com/shejz/Deep-Learning/tree/master/Time%20Series%20Forecasting%20with%20LSTM%20Neural%20Network%20Python) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)]()(https://nbviewer.jupyter.org/github/shejz/Deep-Learning/blob/master/Time%20Series%20Forecasting%20with%20LSTM%20Neural%20Network%20Python/Time%20series%20forecasting.ipynb)
+Apply deep learning paradigm to forecast univariate time series data.
+
+**Description**:
+
+Deep learning is an upcoming field, where we are seeing a lot of implementations in the day to day business operations, including segmentation, clustering, forecasting, prediction or recommendation etc. Deep learning architecture has many branches and one of them is the recurrent neural network (RNN), the method that we are going to analyze in this deep learning project is about Long Short Term Memory Network (LSTM) to perform time series forecasting for univariate time series data.
+
+- Develop a baseline of performance for a forecast problem.
+- Design a robust test harness for one-step time series forecasting.
+- Prepare data for LSTM recurrent neural network python model
+- Develop LSTM python model
+- Evaluate an LSTM recurrent neural network for time series forecasting.
+
+
+
+
+
+
 
 
 
