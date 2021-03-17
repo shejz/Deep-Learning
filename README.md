@@ -30,8 +30,8 @@ The German credit dataset contains information on 1000 loan applicants. Each app
 - Feature selection
 - Feature Engineering
 
-## [Human Activity Recognition Using Smartphones Data Set](https://github.com/shejz/Deep-Learning/tree/master/Human%20Activity%20Recognition%20Using%20Smartphones%20Data%20Set)
-[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Deep-Learning/blob/master/Human%20Activity%20Recognition%20Using%20Smartphones%20Data%20Set/Human%20Activity%20Recognition.ipynb) 
+## [Human Activity Recognition Using Smartphones Data Set](https://github.com/shejz/Deep-Learning/tree/master/Human%20Activity%20Recognition%20Using%20Smartphones%20Data%20Set)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Deep-Learning/blob/master/Human%20Activity%20Recognition%20Using%20Smartphones%20Data%20Set/Human%20Activity%20Recognition.ipynb) 
+
 In this deep learning project, you will build a classification system where to precisely identify human fitness activities.
 
 
@@ -93,7 +93,7 @@ H2O.ai is focused on bringing AI to businesses through software.
 H2O includes many common Machine Learning algorithms, such as generalized linear modeling (linear regression, logistic regression, etc.), Naive Bayes, principal components analysis, k-means clustering, and word2vec. H2O implements best-in-class algorithms at scale, such as distributed random forest, gradient boosting, and deep learning. H2O also includes a Stacked Ensembles method, which finds the optimal combination of a collection of prediction algorithms using a process known as stacking.
 
 
-## [Time Series Forecasting with LSTM Neural Network Python](https://github.com/shejz/Deep-Learning/tree/master/Time%20Series%20Forecasting%20with%20LSTM%20Neural%20Network%20Python) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)]()(https://nbviewer.jupyter.org/github/shejz/Deep-Learning/blob/master/Time%20Series%20Forecasting%20with%20LSTM%20Neural%20Network%20Python/Time%20series%20forecasting.ipynb)
+## [Time Series Forecasting with LSTM Neural Network Python](https://github.com/shejz/Deep-Learning/tree/master/Time%20Series%20Forecasting%20with%20LSTM%20Neural%20Network%20Python)[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Deep-Learning/blob/master/Time%20Series%20Forecasting%20with%20LSTM%20Neural%20Network%20Python/Time%20series%20forecasting.ipynb)
 Apply deep learning paradigm to forecast univariate time series data.
 
 **Description**:
